@@ -5,17 +5,17 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 
 
 🎯**Objectives**
-Analyze employee attrition across different departments.
-Identify key factors contributing to employee turnover.
+Analyze employee attrition across different departments,
+Identify key factors contributing to employee turnover,
 Understand employee demographics and job satisfaction levels.
 Monitor workforce metrics through interactive visualizations.
 Support HR decision-making with actionable insights.
 
 
 🛠️ **Tools & Technologies Used**
-Power BI
-Microsoft Excel
-Power Query
+Power BI,
+Microsoft Excel,
+Power Query,
 DAX (Data Analysis Expressions)
 
 
