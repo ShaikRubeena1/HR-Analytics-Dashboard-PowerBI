@@ -1,10 +1,12 @@
 # HR-Analytics-Dashboard-PowerBI
 
 **Project Overview**
+
 This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition trends and workforce insights. The dashboard helps HR teams and business leaders identify factors affecting employee turnover and make data-driven decisions.
 
 
 🎯**Objectives**
+
 1.Analyze employee attrition across different departments.
 
 2.Identify key factors contributing to employee turnover.
@@ -17,6 +19,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI to an
 
 
 🛠️ **Tools & Technologies Used**
+
 Power BI
 
 Microsoft Excel
@@ -27,6 +30,7 @@ DAX (Data Analysis Expressions)
 
 
 📂**Dataset Information**
+
 The dataset contains employee-related information such as:
 
 Employee ID
@@ -53,6 +57,7 @@ Attrition Status
 
 
 📈 **Dashboard Features**
+
 Executive Summary:
 
 Total Employees
@@ -101,6 +106,7 @@ Job Role
 
 
 🔍 **Key Insights**
+
 Certain job roles experience higher attrition rates than others.
 
 Employees with fewer years at the company show higher turnover.
@@ -111,6 +117,7 @@ Department-level analysis helps identify retention challenges.
 
 
 📸 **Dashboard Screenshots**
+
 Overview Dashboard
 
 Employee Analysis Dashboard
@@ -120,6 +127,7 @@ Job Satisfaction Dashboard
 
 
 🚀 **How to Use**
+
 Download the .pbix file.
 
 Open it using Power BI Desktop.
