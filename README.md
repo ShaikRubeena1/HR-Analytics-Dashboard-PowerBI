@@ -4,6 +4,11 @@
 
 This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition trends and workforce insights. The dashboard helps HR teams and business leaders identify factors affecting employee turnover and make data-driven decisions.
 
+**Business Problem**
+
+Organizations often face high employee attrition, which leads to increased recruitment costs, reduced productivity, and loss of experienced talent. HR teams need a data-driven approach to identify the key factors influencing employee turnover and workforce trends.
+
+This project aims to analyze employee data using Power BI to uncover attrition patterns across departments, job roles, age groups, education fields, and other workforce attributes. The insights generated from the dashboard can help HR professionals make informed decisions to improve employee retention and workforce planning.
 
 🎯**Objectives**
 
