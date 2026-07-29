@@ -1,143 +1,159 @@
 # HR-Analytics-Dashboard-PowerBI
 
-**Project Overview**
+## 📌 Project Overview
 
-This project is an interactive HR Analytics Dashboard built using Power BI to analyze employee attrition trends and workforce insights. The dashboard helps HR teams and business leaders identify factors affecting employee turnover and make data-driven decisions.
+This project is an interactive **HR Analytics Dashboard** developed using **Power BI** to analyze employee attrition, workforce demographics, and organizational performance. The dashboard helps HR professionals identify attrition trends, understand workforce characteristics, and support data-driven decision-making through interactive visualizations and KPIs.
 
-**Business Problem**
+---
 
-Organizations often face high employee attrition, which leads to increased recruitment costs, reduced productivity, and loss of experienced talent. HR teams need a data-driven approach to identify the key factors influencing employee turnover and workforce trends.
+## 🎯 Business Problem
 
-This project aims to analyze employee data using Power BI to uncover attrition patterns across departments, job roles, age groups, education fields, and other workforce attributes. The insights generated from the dashboard can help HR professionals make informed decisions to improve employee retention and workforce planning.
+Employee attrition is a major challenge for organizations as it increases recruitment costs, affects productivity, and results in the loss of experienced employees. HR teams require meaningful insights to understand the factors influencing employee turnover and improve employee retention.
 
-🎯**Objectives**
+This dashboard provides an analytical view of employee data to uncover attrition patterns across departments, job roles, education fields, age groups, and other workforce attributes.
 
-1.Analyze employee attrition across different departments.
+---
 
-2.Identify key factors contributing to employee turnover.
+# 📷 Dashboard Preview
 
-3.Understand employee demographics and job satisfaction levels.
+## 📊 Executive Dashboard
 
-4.Monitor workforce metrics through interactive visualizations.
+![Executive Dashboard](Executive_Dashboard.png)
 
-5.Support HR decision-making with actionable insights.
+---
 
+## 👥 Employee Demographics
 
-🛠️ **Tools & Technologies Used**
+![Employee Demographics](Employee_Demographics.png)
 
-Power BI
+---
 
-Microsoft Excel
+## 📉 Attrition Analysis
 
-Power Query
+![Attrition Analysis](Attrition_Analysis.png)
 
-DAX (Data Analysis Expressions)
+---
 
+# 📈 Key Performance Indicators (KPIs)
 
-📂**Dataset Information**
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Salary
+- Average Years at Company
 
-The dataset contains employee-related information such as:
+---
 
-Employee ID
+# 📊 Dashboard Features
 
-Age
+### Executive Dashboard
 
-Gender
+- Workforce Overview
+- Employee KPIs
+- Attrition Summary
+- Average Salary Analysis
+- Average Experience Analysis
 
-Department
+### Employee Analysis
 
-Education
+- Attrition by Department
+- Attrition by Job Role
+- Attrition by Education Field
+- Attrition by Age Group
+- Attrition by Gender
+- Attrition by Marital Status
 
-Job Role
+### Job Satisfaction Analysis
 
-Monthly Income
+- Job Satisfaction by Role
+- Employee Performance Insights
 
-Years at Company
+### Interactive Filters
 
-Job Satisfaction
+- Department
+- Gender
+- Education Field
+- Job Role
 
-Work-Life Balance
+---
 
-Attrition Status
+# 🛠 Tools & Technologies
 
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Data Modeling
+- Data Visualization
 
-📈 **Dashboard Features**
+---
 
-Executive Summary:
+# 📂 Dataset
 
-Total Employees
+The dataset includes the following employee information:
 
-Attrition Count
+- Employee ID
+- Age
+- Gender
+- Department
+- Education Field
+- Job Role
+- Monthly Income
+- Years at Company
+- Job Satisfaction
+- Work-Life Balance
+- Attrition Status
 
-Attrition Rate
+---
 
-Average Age
+# 💡 Key Business Insights
 
-Average Salary
+- Certain job roles experience significantly higher employee attrition than others.
+- Employees with fewer years at the company tend to have higher turnover.
+- Attrition patterns vary across departments and education fields.
+- Job satisfaction plays an important role in employee retention.
+- Workforce demographics provide valuable insights for HR planning and talent management.
 
-Average Years at Company
+---
 
-Employee Analysis
+# 🚀 Skills Demonstrated
 
-Attrition by Department
+- HR Analytics
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+- DAX
+- Power Query
+- KPI Reporting
+- Business Intelligence
+- Data Analysis
 
-Attrition by Job Role
+---
 
-Attrition by Education Field
+# 📁 Repository Contents
 
-Attrition by Age Group
+- HR_ANALYTICS_DASHBOARD.pbix
+- HR_Analytics.csv
+- Executive_Dashboard.png
+- Employee_Demographics.png
+- Attrition_Analysis.png
+- README.md
 
-Attrition by Gender
+---
 
-Attrition by Marital Status
+# 🚀 How to Use
 
+1. Download the repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Refresh the dataset if required.
+4. Explore the dashboard using interactive filters and slicers.
 
-**Job Satisfaction Analysis**
+---
 
-Job Satisfaction by Role
+## 👩‍💻 Author
 
-Employee Performance Insights
+**Shaik Rubeena**
 
-
-**Interactive Filters**
-
-Department
-
-Gender
-
-Education Field
-
-Job Role
-
-
-🔍 **Key Insights**
-
-Certain job roles experience higher attrition rates than others.
-
-Employees with fewer years at the company show higher turnover.
-
-Age and job satisfaction significantly influence attrition trends.
-
-Department-level analysis helps identify retention challenges.
-
-
-📸 **Dashboard Screenshots**
-
-Overview Dashboard
-
-Employee Analysis Dashboard
-
-Job Satisfaction Dashboard
-
-
-
-🚀 **How to Use**
-
-Download the .pbix file.
-
-Open it using Power BI Desktop.
-
-Refresh the dataset if required.
-
-Explore the dashboard using filters and slicers.
-
+Aspiring Data Analyst
